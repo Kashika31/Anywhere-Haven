@@ -1,2 +1,5 @@
 # Anywhere-Haven
-It is a website where user can book the rooms online in houses and owner can host its property.
+It is a website based on JAVA.
+Owner can host the property for rent.
+It should be approved by website maker to be booked by user.
+Finally, user can book the rooms online in houses.
